@@ -1,6 +1,6 @@
 import React from 'react';
-import type { FC } from 'react';
-import { Button } from 'antd';
+import type {FC} from 'react';
+import {Button} from 'antd';
 import 'antd/dist/reset.css';
 import './App.less';
 import styled from "styled-components";
